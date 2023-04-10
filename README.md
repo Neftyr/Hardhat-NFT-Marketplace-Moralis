@@ -1,5 +1,7 @@
 # Moralis Servers Have Been Disabled
 
+## Unable To Finish Lesson
+
 1. Home Page:
     * Show recently listed NFTs
         * If you own the NFT, you can update the listing.
